@@ -1,4 +1,6 @@
-# frontend
+![Untitled](https://user-images.githubusercontent.com/93079515/178122213-77afd716-d0c2-4db3-9751-16f7a4b43fe6.png)
+
+# TeaShop
 
 ## Project setup
 ```
