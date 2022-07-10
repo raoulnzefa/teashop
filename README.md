@@ -16,7 +16,17 @@
 <img src="https://user-images.githubusercontent.com/93079515/178142153-e6aabb2a-70ae-460f-9a3e-be567bb25c28.svg" width="90%"></img> 
 </div>
 
+<br>
+
 <!-- GETTING STARTED -->
-<h2 align="center">
+<h1 align="center">
   Getting Started
-</h2>
+</h1>
+<h4 align="center">Here you can find instruction step by step how to run TeaShop project locally.</h4>
+
+
+<h2 align="center"> The software you need </h2>
+
+<img src="https://user-images.githubusercontent.com/93079515/178144428-908f272b-b447-414e-b36c-12b235b388e3.svg" width="10%"></img><h4>Install python 3.9 or newer from <a href="https://www.python.org/">Python.org</a></h4>
+<br>
+<img src="https://user-images.githubusercontent.com/93079515/178144703-e26b0b60-f5dc-49ed-a78a-4e263fe6b789.svg" width="20%"></img></img><h4>Install nodejs from <a href="https://nodejs.org/en/">nodejs.org</a></h4>
