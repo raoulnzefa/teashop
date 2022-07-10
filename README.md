@@ -7,7 +7,7 @@
 </h3>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/93079515/178141316-70d799bf-137f-4c72-ba20-a703afde2076.gif" width="70%"></img>
+<img src="https://user-images.githubusercontent.com/93079515/178141316-70d799bf-137f-4c72-ba20-a703afde2076.gif" width="80%"></img>
 </div>
 
 <h2 align="center"> Build with </h2>
@@ -15,3 +15,8 @@
 <div align="center">
 <img src="https://user-images.githubusercontent.com/93079515/178142153-e6aabb2a-70ae-460f-9a3e-be567bb25c28.svg" width="90%"></img> 
 </div>
+
+<!-- GETTING STARTED -->
+<h2 align="center">
+  Getting Started
+</h2>
