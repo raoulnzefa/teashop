@@ -27,6 +27,18 @@
 
 <h2 align="center"> The software you need </h2>
 
-<img src="https://user-images.githubusercontent.com/93079515/178144428-908f272b-b447-414e-b36c-12b235b388e3.svg" width="10%"></img><h4>Install python 3.9 or newer from <a href="https://www.python.org/">Python.org</a></h4>
-<br>
-<img src="https://user-images.githubusercontent.com/93079515/178144703-e26b0b60-f5dc-49ed-a78a-4e263fe6b789.svg" width="20%"></img></img><h4>Install nodejs from <a href="https://nodejs.org/en/">nodejs.org</a></h4>
+<h4>Install python 3.9 or newer from <a href="https://www.python.org/">Python.org</a></h4>
+<h4>Install nodejs from <a href="https://nodejs.org/en/">nodejs.org</a></h4>
+
+<h2 align="center"> Installation </h2>
+<h4>1. Clone repository to your folder</h4>
+
+```ps
+git clone https://github.com/kacperkrasnal/teashop.git
+```
+
+<h4>2. Clone repository to your folder</h4>
+
+```ps
+git clone https://github.com/kacperkrasnal/teashop.git
+```
