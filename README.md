@@ -118,7 +118,11 @@ npm install
 npm run serve
 ```
 
-<h2 align="center">Everything done just open <a href="http://localhost:8080/">localhost</a> page</h2>
+<h3 align="center">Everything done just open <a href="http://localhost:8080/">localhost</a> page</h3>
+
+<h1 align="center">
+  Usage
+</h1>
 
 
 
