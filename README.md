@@ -123,6 +123,7 @@ npm run serve
 <h1 align="center">
   Usage
 </h1>
+<h4 align="center">Simplicity, TeaShop from the company side has the function of adding products and categories to your store. Preview of orders and shipping data. From the customer's point of view, product selection, adding reviews, and previewing the order card.</h4>
 
 
 
